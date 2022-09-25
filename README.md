@@ -59,7 +59,7 @@ I used [Dungeon Scrawl](https://www.dungeonscrawl.com) and this [article](https:
 
 This is the dungeon I created.
 
-![map](/Sketch/Map.pdf)
+![map](/Sketch/Map.png)
 
 # WhiteBox Stage
 The WhiteBox stage is where level designers create an initial level made out of "White Boxes" to only get the feel of how the level is going to turn out and not be impacted by the levels visuals. In this instance,
