@@ -62,10 +62,16 @@ This is the dungeon I created.
 ![map](/Sketch/Map.png)
 
 # WhiteBox Stage
-The WhiteBox stage is where level designers create an initial level made out of "White Boxes" to only get the feel of how the level is going to turn out and not be impacted by the levels visuals. 
+The WhiteBox stage is where level designers create an initial level made out of "White Boxes". This is only to get the feel of how the level is going to turn out by not being impacted by the levels visuals. So for my case, I used my design as a template.
 
-<!--add video today and add more on stages-->
+[![Fire-Whitebox](http://img.youtube.com/vi/spvFGT5ECS8/mqdefault.jpg)](https://www.youtube.com/watch?v=spvFGT5ECS8)
+
+Next time, I think I want to try adding the dungeon map on the floor of the level to get everything proportional. That way I don't have to struggle with the proportions. Since the constructive criticisms from my professor and peers told me that my spacing was too big and either I need to add more props or to shrink down the size if the map. I didn't have that much prop assets to work with therefore it would be easier to shrink the rooms more. It's clear that I didn't spend as much time on the Whitebox stage, else the proportions would seem huge at that stage and I could of fixed it sooner.
+
 # Final Stage
-This is the final stage. At this stage, we add the final assets to see how the level turns out visually and how it feels. In my case,
+This is the final stage. At this stage, we add the final assets to see how the level turns out visually and how it feels. In my case, I added the assets my professor gave us. I went with the theme of an underground hidden forest temple, even though I called it a fire temple, I named it after the level from Legend of Zelda's Ocarina of Time Fire Temple's Design rather than the theme itself.
 
-<!--add video today and add more on stages-->
+<!--https://youtu.be/WWmx1V9lteQ-->
+[![Fire-Whitebox](http://img.youtube.com/vi/WWmx1V9lteQ/mqdefault.jpg)](https://www.youtube.com/watch?v=WWmx1V9lteQ)
+
+The proportions are smaller but with the props it gives it more depth and exaggerates the emptiness more, since you can see the details get smaller instead of a plane white surface where everything looks flat.
