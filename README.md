@@ -58,7 +58,8 @@ I used [Dungeon Scrawl](https://www.dungeonscrawl.com) and this [article](https:
 4. [Ocarina of Time's Fire Temple](https://ucded9f7433a3311c0fedc216aaa.previews.dropboxusercontent.com/p/thumb/ABoQ-ZlQSaJDWCF2FEfaFAi7jC788GBNq56lj_Bsv7hgH4owD-1A6AgsseBM-YlCr1H9D_Hn_efA73XLGlGp-1uL8ua_8YtQJLO89fJ5lw37MCK3EAUkDL__N-R5fvGM8t5z9cjXd3mnWLP_XtLVf02-74P5fNiOcPg7mfOV95JiK5keOiNcjXQdnj4b1L1BtEqpwuaML_GtfYvsXHLKFDX9TwM5RTtkduOt3U2cmf3cgJxrJfs5Dr29YXW6Lgbxy6hcRFIu4FiYiwI76M61KIOFmC2K_QeZq9rYX_QchvwzD__GOno7iRoykLkUXLlfQ54e0NusetiwMuJbJU85woCuaI3VixjYjY8G5h09BtrolAxU_xyuJsOsn8nCAScbSK0/p.png) (Hardest)<br>
 
 This is the dungeon I created.
-[![map](https://github.com/Xlesiai/Fire-Temple-Level-Design/blob/main/Sketch/Map.pdf)]()
+
+![map](https://github.com/Xlesiai/Fire-Temple-Level-Design/blob/main/Sketch/Map.pdf?raw=true)
 
 # WhiteBox Stage
 The WhiteBox stage is where level designers create an initial level made out of "White Boxes" to only get the feel of how the level is going to turn out and not be impacted by the levels visuals. In this instance,
