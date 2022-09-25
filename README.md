@@ -42,8 +42,15 @@ Do NOT start by just randomly placing environmental pieces; this project will be
 # Plan Stage
 In this stage, I plan what the dungeon layout is going to look like. 
 I used [Dungeon Scrawl](https://www.dungeonscrawl.com) and this [article](https://www.worldofleveldesign.com/categories/cat-level-design.php) to create the basic layout of my design. Our professor also recommended to base our layouts on one of the zelda dungeons provided for us and with the [graphs](https://www.patreon.com/posts/how-my-boss-key-13801754) from [Game Maker's Toolkit](https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2)
-1. 
-2. 
+<br> 
+
+[Key](https://c10.patreonusercontent.com/4/patreon-media/p/post/13801754/29fa8d1e33e24282bbde32e49879c0c4/eyJwIjoxfQ%3D%3D/1.png?token-time=1665360000&token-hash=QT6jMTxlR6goXLRe5O4cRWev9MiLaaX2vhASfBDOiGE%3D)
+[Fire-Temple](https://c10.patreonusercontent.com/4/patreon-media/p/post/13801754/29fa8d1e33e24282bbde32e49879c0c4/eyJwIjoxfQ%3D%3D/1.png?token-time=1665360000&token-hash=QT6jMTxlR6goXLRe5O4cRWev9MiLaaX2vhASfBDOiGE%3D)
+1. <br>
+2. <br>
+3. <br>
+4. Ocarina of Time's Fire Temple<br>
+
 
 # WhiteBox Stage
 The WhiteBox stage is where level designers create an initial level made out of "White Boxes" to only get the feel of how the level is going to turn out and not be impacted by the levels visuals. In this instance,
