@@ -62,6 +62,10 @@ This is the dungeon I created.
 ![map](/Sketch/Map.png)
 
 # WhiteBox Stage
-The WhiteBox stage is where level designers create an initial level made out of "White Boxes" to only get the feel of how the level is going to turn out and not be impacted by the levels visuals. In this instance,
+The WhiteBox stage is where level designers create an initial level made out of "White Boxes" to only get the feel of how the level is going to turn out and not be impacted by the levels visuals. 
+
+<!--add video today and add more on stages-->
 # Final Stage
 This is the final stage. At this stage, we add the final assets to see how the level turns out visually and how it feels. In my case,
+
+<!--add video today and add more on stages-->
