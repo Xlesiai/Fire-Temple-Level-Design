@@ -55,7 +55,7 @@ I used [Dungeon Scrawl](https://www.dungeonscrawl.com) and this [article](https:
 1. [Wind Waker Forbidden Woods](https://ucbc4666e54a3c99ff8fb87ae2df.previews.drop…lHwZP8P5IAxWUXKiQ8/p.png?size=512x512&size_mode=1)<br>
 2. [Wind Waker Dragon Roost](https://ucbc4666e54a3c99ff8fb87ae2df.previews.drop…lHwZP8P5IAxWUXKiQ8/p.png?size=512x512&size_mode=1)<br>
 3. [Wind Waker Earth Temple](https://ucbc4666e54a3c99ff8fb87ae2df.previews.drop…lHwZP8P5IAxWUXKiQ8/p.png?size=512x512&size_mode=1)<br>
-4. [Ocarina of Time's Fire Temple](https://ucbc4666e54a3c99ff8fb87ae2df.previews.drop…lHwZP8P5IAxWUXKiQ8/p.png?size=512x512&size_mode=1)<br>
+4. [Ocarina of Time's Fire Temple](https://ucded9f7433a3311c0fedc216aaa.previews.drop…aI3VixjYjY8G5h09BtrolAxU_xyuJsOsn8nCAScbSK0/p.png)<br>
 
 
 # WhiteBox Stage
