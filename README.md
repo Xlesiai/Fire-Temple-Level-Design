@@ -42,10 +42,15 @@ Do NOT start by just randomly placing environmental pieces; this project will be
 # Plan Stage
 In this stage, I plan what the dungeon layout is going to look like. 
 I used [Dungeon Scrawl](https://www.dungeonscrawl.com) and this [article](https://www.worldofleveldesign.com/categories/cat-level-design.php) to create the basic layout of my design. Our professor also recommended to base our layouts on one of the zelda dungeons provided for us and with the [graphs](https://www.patreon.com/posts/how-my-boss-key-13801754) from [Game Maker's Toolkit](https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2)
-<br> 
+<br>  
 
-[![Key](https://c10.patreonusercontent.com/4/patreon-media/p/post/13801754/29fa8d1e33e24282bbde32e49879c0c4/eyJwIjoxfQ%3D%3D/1.png?token-time=1665360000&token-hash=QT6jMTxlR6goXLRe5O4cRWev9MiLaaX2vhASfBDOiGE%3D)]()
-[![Fire-Temple](https://c10.patreonusercontent.com/4/patreon-media/p/post/13801754/29fa8d1e33e24282bbde32e49879c0c4/eyJwIjoxfQ%3D%3D/1.png?token-time=1665360000&token-hash=QT6jMTxlR6goXLRe5O4cRWev9MiLaaX2vhASfBDOiGE%3D)]()
+[graph downloads](https://www.dropbox.com/sh/0arnq2gf89e8hem/AAAJYLhV8VT7o4meCTa-hRdVa?dl=0)
+<br>
+
+<img src="https://c10.patreonusercontent.com/4/patreon-media/p/post/13801754/29fa8d1e33e24282bbde32e49879c0c4/eyJwIjoxfQ%3D%3D/1.png?token-time=1665360000&token-hash=QT6jMTxlR6goXLRe5O4cRWev9MiLaaX2vhASfBDOiGE%3D" alt="graph keys" width="200"/>
+
+<img src="https://ucded9f7433a3311c0fedc216aaa.previews.dropboxusercontent.com/p/thumb/ABoQ-ZlQSaJDWCF2FEfaFAi7jC788GBNq56lj_Bsv7hgH4owD-1A6AgsseBM-YlCr1H9D_Hn_efA73XLGlGp-1uL8ua_8YtQJLO89fJ5lw37MCK3EAUkDL__N-R5fvGM8t5z9cjXd3mnWLP_XtLVf02-74P5fNiOcPg7mfOV95JiK5keOiNcjXQdnj4b1L1BtEqpwuaML_GtfYvsXHLKFDX9TwM5RTtkduOt3U2cmf3cgJxrJfs5Dr29YXW6Lgbxy6hcRFIu4FiYiwI76M61KIOFmC2K_QeZq9rYX_QchvwzD__GOno7iRoykLkUXLlfQ54e0NusetiwMuJbJU85woCuaI3VixjYjY8G5h09BtrolAxU_xyuJsOsn8nCAScbSK0/p.png" alt="graph keys" width="200"/>
+
 1. <br>
 2. <br>
 3. <br>
